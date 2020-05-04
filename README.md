@@ -1,3 +1,7 @@
 # microsoft-suite-autogen
 
-![Word](data/word.jpeg)
+![Word](resources/word.jpeg)
+
+![Excel](resources/excel.jpeg)
+
+![Powerpoint](resources/powerpoint.jpeg)
