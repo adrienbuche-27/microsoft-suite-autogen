@@ -1,3 +1,3 @@
 # microsoft-suite-autogen
 
-![Word]('/data/word.jpeg')
+![Word](data/word.jpeg)
