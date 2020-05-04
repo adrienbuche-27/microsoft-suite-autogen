@@ -4,13 +4,24 @@ With this projects, I want to investigate the feasibility of creating Microsoft 
 
 <img align="left" width="80" height="80" src="resources/word.jpeg" alt="Word app icon">
 
-# Word
+## Word
 
+blablabla
 
 <img align="left" width="80" height="80" src="resources/excel.jpeg" alt="Excel app icon">
 
-# Excel
+## Excel
+
+
+blablabla
+
 
 <img align="left" width="80" height="80" src="resources/powerpoint.jpeg" alt="PowerPoint app icon">
 
-# PowerPoint
+## PowerPoint
+
+
+blablabla
+
+
+## Resources
